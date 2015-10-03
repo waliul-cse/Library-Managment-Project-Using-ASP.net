@@ -1,0 +1,222 @@
+D:\visual project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+D:\visual project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\visual project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+I:\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+I:\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+I:\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+I:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+G:\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+G:\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+G:\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+C:\Users\Partho\Desktop\New folder (2)\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+G:\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+K:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+K:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+I:\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+I:\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+I:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+G:\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+G:\Project\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Form1.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+G:\Project\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+C:\Users\Partho\Desktop\Project\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+C:\Users\Partho\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+C:\Users\Partho\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.exe
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.pdb
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.pdb
+C:\Users\LIZON\Desktop\Library Of CSE\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library Of CSE.exe
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library Of CSE.pdb
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\bin\Debug\Library Of CSE.exe
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\bin\Debug\Library Of CSE.pdb
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+G:\687-7921-Library Management\Library Of CSE Update\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+D:\Final Project\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+H:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+G:\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+D:\Work2-2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+G:\uttam\project2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+G:\uttam\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+G:\uttam\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\project2\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+J:\Programme\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe.config
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.pdb
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.exe
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\bin\Debug\Library Of CSE.pdb
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\ResolveAssemblyReference.cache
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Action.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Add_or_Remove_Book.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Main.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Manage_Categories.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Properties.Resources.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Register.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Report.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library_Of_CSE.Search_Book.resources
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.csproj.GenerateResource.Cache
+D:\Video Tutorial\Latest collected Tutorial\Project of Monower in C#\Special Project\Projects from others\Library Of CSE Update(29.10.10)\Library Of CSE\obj\Debug\Library Of CSE.exe
